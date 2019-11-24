@@ -2,10 +2,10 @@
 {
     public class Calcurate
     {
-        public int employeId;
-        public string employeName;
-        public string employePosition;
-        public string employeGender;
+        public int EmployeeId;
+        public string EmployeeName;
+        public string EmployeePosition;
+        public string EmployeeGender;
         
         public double CalculateMonthlySalary(double grossSalary)
         {
