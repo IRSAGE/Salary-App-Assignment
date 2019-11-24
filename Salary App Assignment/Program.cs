@@ -32,7 +32,7 @@ namespace Salary_App_Assignment
             }
             else
             {
-                Console.WriteLine(" Your hourly salary is 0");
+                Console.WriteLine("The one time salary of {emp.EmployeeName} with id {emp.EmployeeId} on {emp.EmployeePosition} Position is 0 ");
             }
 
         }
