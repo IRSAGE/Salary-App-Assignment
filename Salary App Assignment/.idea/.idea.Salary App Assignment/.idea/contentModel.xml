@@ -5,6 +5,7 @@
     <e p="C:\Users\IR~SAGE\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Salary App Assignment.1881313888.00" t="ExcludeRecursive" />
     <e p="F:\Projects\Rider Projects\Salary-App-Assignment\Salary App Assignment" t="IncludeRecursive">
       <e p="bin" t="ExcludeRecursive" />
+      <e p="Calcurate.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp3.0" t="Include">
